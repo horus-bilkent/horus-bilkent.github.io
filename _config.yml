@@ -1,7 +1,7 @@
 # Site settings
-title: Solo, a Jekyll Theme
-tag_text: Solo
-description: Solo is a Jekyll theme that supports single-page websites only, but supports them well. Yes, it’s responsive.
+title: Horus, IOT without infrastructure change
+tag_text: Horus
+description: Horus is a Senior Design Project(CS 491) which aims to be an interim technology connecting current sensor tracking infrastrucre to the cloud. 
 
 # Build settings
 markdown: kramdown
