@@ -19,3 +19,4 @@ The development and adoption of Internet of Things is a critical element of data
 ### Reports
 
 * [Project Specification Report](https://github.com/horus-bilkent/horus-bilkent.github.io/raw/master/specreport.pdf)
+* [Project Analysis Report](https://github.com/horus-bilkent/horus-bilkent.github.io/raw/master/analysis_report.pdf)
