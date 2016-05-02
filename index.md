@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Horus](http://horus-bilkent.github.io/) is a **Senior Design Project(CS 491)** which aims to be an interim technology connecting current sensor tracking infrastructure to the cloud services using a simple camera and raspberry pie.  
+[Horus](http://horus-bilkent.github.io/) is a **Senior Design Project(CS 491)** which aims to be an interim technology connecting current sensor tracking infrastructure to the cloud services using a simple cameras and BeagleBone Black.  
 
 ## About
 
@@ -20,3 +20,4 @@ The development and adoption of Internet of Things is a critical element of data
 
 * [Project Specification Report](https://github.com/horus-bilkent/horus-bilkent.github.io/raw/master/specreport.pdf)
 * [Project Analysis Report](https://github.com/horus-bilkent/horus-bilkent.github.io/raw/master/analysis_report.pdf)
+* [Project High Level Design Report](https://github.com/horus-bilkent/horus-bilkent.github.io/raw/master/hileveldesign_report.pdf)
